@@ -30,14 +30,14 @@ export default function ContactSection() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'vardhaneswar362@gmail.com',
-      href: 'mailto:vardhaneswar362@gmail.com',
+      value: 'vardhaneswar213@gmail.com',
+      href: 'mailto:vardhaneswar213@gmail.com',
       color: 'cyan'
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '978-423-1913',
+      value: '+1 978-423-1913',
       href: 'tel:+19784231913',
       color: 'green'
     },
